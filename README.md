@@ -66,7 +66,7 @@ nothing to lose.
 
 <div align="center">
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID_HERE&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=A970FF&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31gi7vfaklkshic5c32kkf22q5ny&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=A970FF&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gi7vfaklkshic5c32kkf22q5ny&redirect=true)
 
 </div>
 
