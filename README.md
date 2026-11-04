@@ -19,12 +19,12 @@
 ```txt
 probably coding or sleeping. no in between.
 built things just to see if i could.
-nothing to lose.
+never lose.
 ```
 
 <br/>
 
-## ⚡ what i use
+##  what i use
 
 <div align="center">
 
@@ -39,7 +39,7 @@ nothing to lose.
 
 <br/>
 
-## 📊 my numbers
+##  my numbers
 
 <div align="center">
 
@@ -62,7 +62,7 @@ nothing to lose.
 
 <br/>
 
-## 🎵 now playing
+##  now playing
 
 <div align="center">
 
