@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ravenv.dev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=systems%20%E2%80%A2%20networks%20%E2%80%A2%20full-stack&descAlignY=58&descAlign=50&descSize=15" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ravenv.dev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=systems%20%E2%80%A2%20networks%20%E2%80%A2%20full-stack&descAlignY=58&descAlign=50&descSize=15" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=A970FF&center=true&vCenter=true&width=620&lines=C+%7C+C%2B%2B+%7C+Go+%7C+Rust+%7C+JavaScript+%7C+Python;low-level+to+high-level%2C+I+do+it+all;building+tools+that+bypass+limitations;never+lose." />
 
@@ -66,8 +66,12 @@ nothing to lose.
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/928300711438073936?theme=dark&bg=0D1117&borderRadius=12px&animated=true&hideDiscrim=true)](https://discord.com/users/928300711438073936)
+[![Discord](https://img.shields.io/badge/ravenv.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/928300711438073936)
+
+<br/>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/928300711438073936?theme=dark&bg=0D1117&borderRadius=12px&animated=true&hideDiscrim=true&idleMessage=not%20vibing%20rn)](https://discord.com/users/928300711438073936)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
