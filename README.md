@@ -72,7 +72,7 @@ nothing to lose.
 
 <br/>
 
-[![Lanyard](https://lanyard.cnrad.dev/api/602087236623794179?theme=dark&bg=0D1117&borderRadius=12px&animated=true&hideDiscrim=true&idleMessage=not%20vibing%20rn)](https://discord.com/users/602087236623794179)
+[![Lanyard](https://lanyard.cnrad.dev/api/602087236623794179?theme=dark&bg=000000&borderRadius=12px&animated=true&hideDiscrim=true&idleMessage=not%20vibing%20rn)](https://discord.com/users/602087236623794179)
 
 </div>
 
