@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0&height=200&section=header&text=ravenv.dev&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=systems%20%E2%80%A2%20networks%20%E2%80%A2%20full-stack&descAlignY=58&descAlign=50&descSize=15" />
+<img width="100%" src="https://raw.githubusercontent.com/ravenvdev/ravenvdev/main/banner.svg" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=probably+debugging+something+rn;C+%7C+Go+%7C+Rust+%7C+JS+%7C+C%2B%2B+%7C+Python;built+a+dpi+bypass+just+for+fun;if+it+compiles+%E2%80%94+ship+it.;never+lose." />
 
@@ -86,4 +86,4 @@ never lose.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0&height=120&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/ravenvdev/ravenvdev/main/footer.svg" />
