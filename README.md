@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/ravenv.dev-0D1117?style=flat-square&logo=googlechrome&logoColor=A970FF)](https://ravenv.dev)
 &nbsp;
-[![Discord](https://img.shields.io/badge/ravenv.dev-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/928300711438073936)
+[![Discord](https://img.shields.io/badge/ravenv.dev-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/602087236623794179)
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=ravenvdev&style=flat-square&color=A970FF&label=views)
 
@@ -62,13 +62,17 @@ nothing to lose.
 
 <br/>
 
-## 🤝 Connect
+## 💜 Discord
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/ravenv.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravenv.dev)
+[![Discord](https://img.shields.io/badge/ravenv.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/602087236623794179)
 &nbsp;
-[![Discord](https://img.shields.io/badge/ravenv.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/928300711438073936)
+[![Website](https://img.shields.io/badge/ravenv.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravenv.dev)
+
+<br/>
+
+[![Lanyard](https://lanyard.cnrad.dev/api/602087236623794179?theme=dark&bg=0D1117&borderRadius=12px&animated=true&hideDiscrim=true&idleMessage=not%20vibing%20rn)](https://discord.com/users/602087236623794179)
 
 </div>
 
