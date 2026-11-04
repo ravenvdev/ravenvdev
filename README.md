@@ -62,15 +62,13 @@ nothing to lose.
 
 <br/>
 
-## 💜 Discord
+## 🤝 Connect
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/ravenv.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravenv.dev)
+&nbsp;
 [![Discord](https://img.shields.io/badge/ravenv.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/928300711438073936)
-
-<br/>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/928300711438073936?theme=dark&bg=0D1117&borderRadius=12px&animated=true&hideDiscrim=true&idleMessage=not%20vibing%20rn)](https://discord.com/users/928300711438073936)
 
 </div>
 
