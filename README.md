@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=ravenv.dev&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=systems%20%E2%80%A2%20networks%20%E2%80%A2%20full-stack&descAlignY=58&descAlign=50&descSize=15" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=800&color=A970FF&center=true&vCenter=true&width=620&lines=C+%7C+C%2B%2B+%7C+Go+%7C+Rust+%7C+JavaScript+%7C+Python;low-level+to+high-level%2C+I+do+it+all;building+tools+that+bypass+limitations;never+lose." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=900&color=A970FF&center=true&vCenter=true&width=620&lines=probably+debugging+something+rn;C+%7C+Go+%7C+Rust+%7C+JS+%7C+C%2B%2B+%7C+Python;built+a+dpi+bypass+just+for+fun;if+it+compiles+%E2%80%94+ship+it.;never+lose." />
 
 <br/>
 
@@ -17,14 +17,14 @@
 <br/>
 
 ```txt
-lost in my own world.
-building from scratch, breaking from the top.
+probably coding or sleeping. no in between.
+built things just to see if i could.
 nothing to lose.
 ```
 
 <br/>
 
-## ⚡ Tech Stack
+## ⚡ what i use
 
 <div align="center">
 
@@ -39,7 +39,7 @@ nothing to lose.
 
 <br/>
 
-## 📊 Stats
+## 📊 my numbers
 
 <div align="center">
 
@@ -62,7 +62,17 @@ nothing to lose.
 
 <br/>
 
-## 💜 Discord
+## 🎵 now playing
+
+<div align="center">
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SPOTIFY_ID_HERE&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=A970FF&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com)
+
+</div>
+
+<br/>
+
+## 💜 discord
 
 <div align="center">
 
